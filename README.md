@@ -1,7 +1,7 @@
 # Where is StreamPipes?
 
 StreamPipes has joined the Apache Incubator!
-See the blog post here: [https://streampipes.apache.org/docs/blog/2019/11/25/moving-to-the-apache-incubator/ (https://streampipes.apache.org/docs/blog/2019/11/25/moving-to-the-apache-incubator/)
+See the blog post here: [https://streampipes.apache.org/docs/blog/2019/11/25/moving-to-the-apache-incubator/](https://streampipes.apache.org/docs/blog/2019/11/25/moving-to-the-apache-incubator/)
 
 The new code repositories can be found here:
 * Core + UI: [https://github.com/apache/incubator-streampipes](https://github.com/apache/incubator-streampipes)
